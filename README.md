@@ -25,10 +25,7 @@ Download Malwarebytes: <br/>
 <img src="https://imgur.com/a/vOa2nrZ" height="80%" width="80%" alt="Malwarebytes Download"/> 
 <br />
 <br />
-Locate exclude lists: <br/>
-<br />
-<br />
-Configure exclude lists:  <br/>
+Locate and configure exclude lists: <br/>
 <br />
 <br />
 Restart machine:  <br/>
