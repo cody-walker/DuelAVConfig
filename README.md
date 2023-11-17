@@ -18,7 +18,10 @@ The project aims to configure two different antivirus software to run simultaneo
 
 <p align="center">
 Download Avast: <br/>
-<img src="https://imgur.com/a/YVGXvUC" height="80%" width="80%" alt="Avast Download"/>
+
+ ![Screenshot 2023-10-29 061412](https://github.com/cody-walker/DuelAVConfig/assets/148695140/ccd1129a-aee4-41ab-a744-65b762d66ea7)
+
+
 <br />
 <br />
 Download Malwarebytes: <br/>
