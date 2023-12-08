@@ -41,13 +41,22 @@ Locate and configure exception/allow list in each AV's settings to exclude the c
 <p align="center">
 Edit custom scan frequency in Avast to daily:
  
- ![Screenshot 2023-12-07 231600](https://github.com/cody-walker/DuelAVConfig/assets/148695140/1ec301b9-7b06-469c-abf2-8ed60aa2f26a)
+![Screenshot 2023-12-07 231600](https://github.com/cody-walker/DuelAVConfig/assets/148695140/1ec301b9-7b06-469c-abf2-8ed60aa2f26a)
 
 <br />
 <br />
 <p align="center">
-Restart machine:  <br/>
+Configure Avast firewall in settings:
+
+![Screenshot 2023-12-07 232219](https://github.com/cody-walker/DuelAVConfig/assets/148695140/d3c3f988-c86a-4b4c-ac51-b25bac4ff196)
+
 <br />
+<br />
+<p align="center">
+ Restart machine:  <br/>
+
+
+ <br />
 <br />
 </p>
 
